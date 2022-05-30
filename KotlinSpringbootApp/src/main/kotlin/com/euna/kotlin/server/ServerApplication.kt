@@ -1,7 +1,7 @@
 package com.euna.kotlin.server
 
 import com.euna.kotlin.server.entity.BookModel
-import com.euna.kotlin.server.entity.BookRepository
+import com.euna.kotlin.server.repository.BookRepository
 import org.springframework.boot.ApplicationRunner
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication

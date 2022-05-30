@@ -1,4 +1,4 @@
-package com.euna.kotlin.server.entity
+package com.euna.kotlin.server.repository
 
 import com.euna.kotlin.server.entity.BookModel
 import org.springframework.data.repository.CrudRepository
