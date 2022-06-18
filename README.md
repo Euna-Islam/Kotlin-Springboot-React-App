@@ -1,3 +1,3 @@
 # Kotlin-Springboot-React-App
 
-Simple Kotlin Server
+Simple Kotlin Server with react frontend
